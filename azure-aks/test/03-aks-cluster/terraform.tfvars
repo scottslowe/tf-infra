@@ -1,0 +1,5 @@
+ssh_public_key = "/home/slowe/.ssh/azure_rsa.pub"
+aad_client_id = "unknown"
+aad_server_id = "unknown"
+aad_server_secret = "unknown"
+aks_resource_group_name = "akstest-rg"
